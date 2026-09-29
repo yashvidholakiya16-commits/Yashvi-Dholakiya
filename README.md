@@ -6,3 +6,4 @@ This is a helper library to abstract away I2C, SPI, and 'generic transport' (e.g
 Adafruit invests time and resources providing this open source code, please support Adafruit and open-source hardware by purchasing products from Adafruit!
 
 MIT license, all text above must be included in any redistribution
+yashvi
